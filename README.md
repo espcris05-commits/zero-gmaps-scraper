@@ -30,11 +30,13 @@ You'll be prompted for search keyword and location.
 | **Pro Package** | **$35 USD** | Standard + email extraction + review text + bulk keyword mode |
 | **Enterprise** | **$75 USD** | Pro + dedicated deployment + stealth mode + web GUI |
 
+**Payment methods:** Litecoin (LTC), Dogecoin (DOGE), Stellar (XLM), USDT (TRC-20), PayPal
+
 ## 🛒 How to Buy
 
 1. **GitHub Sponsors:** [Sponsor & Download](https://github.com/sponsors/espcris05-commits) — select "Zero GMaps Scraper"
 2. **Crypto:** Send payment to the address in script for instant unlock
-3. **Contact:** Open an Issue for custom deals
+3. **Contact:** Open an Issue for custom deals or email espcris05@proton.me
 
 ---
 
